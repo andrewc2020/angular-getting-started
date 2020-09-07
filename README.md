@@ -1,3 +1,18 @@
+# APM-Final
+
+
+is a worked example from Deborah Kurata's Pluralsight course Angular Getting Started.
+
+Use https://github.com/DeborahK/Angular-GettingStarted with the course, rather than this repository to learn angular.
+
+This is my worked example which can be used to take the next logical steps such as exploring different deployment options or perhaps adding additional components.
+
+## Barcode
+
+I added a barcode to product. This has also been upgrade to use https://www.npmjs.com/package/ngx-barcode. Thanks to Bryon Williams.
+
+Search for  ngx-barcode on npm.
+
 # Angular-Getting Started
 Materials for the ["Angular: Getting Started"](http://bit.ly/Angular-GettingStarted) course on Pluralsight.
 
