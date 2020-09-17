@@ -3,7 +3,7 @@
 
 It is a worked example from Deborah Kurata's Pluralsight course Angular Getting Started.
 
-Use https://github.com/DeborahK/Angular-GettingStarted with the course, rather than this repository to learn angular.
+Use https://github.com/DeborahK/Angular-GettingStarted with the course, rather than this repository to learn angular. 
 
 This is my worked example which can be used to take the next logical steps such as exploring different deployment options or perhaps adding additional components.
 
